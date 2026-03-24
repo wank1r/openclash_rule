@@ -2,7 +2,7 @@ payload:
 
 #代理
 - DOMAIN-SUFFIX,jinglingdaili.com
-- DOMAIN-SUFFIX,bapi.51daili.com
+- DOMAIN-SUFFIX,51daili.com
 # nas
 - SRC-IP-CIDR,192.168.2.2/32
 - SRC-IP-CIDR,192.168.2.3/32
