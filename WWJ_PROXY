@@ -1,0 +1,23 @@
+payload:
+
+#docker
+- DOMAIN-SUFFIX,docker.com
+- DOMAIN-SUFFIX,docker.io
+# telegram机器人
+- DOMAIN-SUFFIX,telegram.org
+# node安装
+- DOMAIN-SUFFIX,npmjs.org
+# ipmart
+- DOMAIN-SUFFIX,ipmart.io
+
+# 黑料不打烊
+- DOMAIN-SUFFIX,155.fun
+- DOMAIN-SUFFIX,heiliao.com
+- DOMAIN-SUFFIX,18hlw.com
+# 91porn
+- DOMAIN-KEYWORD,btc620
+# miss
+- DOMAIN-SUFFIX,missav.ai
+- DOMAIN-SUFFIX,missav.live
+- DOMAIN-SUFFIX,missav.ws
+
