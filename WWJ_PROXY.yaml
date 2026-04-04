@@ -1,5 +1,7 @@
 payload:
 
+#chrome更新
+- DOMAIN-SUFFIX,dl.google.com
 # node安装
 - DOMAIN-SUFFIX,npmjs.org
 # ipmart
