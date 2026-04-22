@@ -18,6 +18,8 @@ payload:
 - DOMAIN-SUFFIX,carpt.net
 # 库飞
 - DOMAIN-SUFFIX,kufei.org
+# 
+- DOMAIN-SUFFIX,ptskit.org
 # time.is
 - DOMAIN-SUFFIX,time.is
 #水果派
