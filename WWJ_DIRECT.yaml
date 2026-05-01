@@ -6,6 +6,8 @@ payload:
 # nas
 - SRC-IP-CIDR,192.168.2.2/32
 - SRC-IP-CIDR,192.168.2.3/32
+# 嘉立创
+- DOMAIN-SUFFIX,jlc-jdgf.com
 # 馒头
 - DOMAIN-SUFFIX,halomt.com
 - DOMAIN-SUFFIX,manfuz.co
