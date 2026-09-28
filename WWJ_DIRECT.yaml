@@ -1,6 +1,9 @@
 payload:
 
-#代理
+#旭瀚物联（小狗定位）
+- DOMAIN-SUFFIX,gps868.com
+
+#国内代理平台
 - DOMAIN-SUFFIX,jinglingdaili.com
 - DOMAIN-SUFFIX,51daili.com
 # nas
